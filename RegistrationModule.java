@@ -3,7 +3,7 @@
  * 
  * Author-Atul Agrawal
  */
-public class RegistrationModule {
+public class RegistrationModule implements RegistrationInterface {
      
 /*
  * set authentication details provided by the Hospital Authority to insert patient information in database
